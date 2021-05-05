@@ -24,4 +24,4 @@ The various methods that can be invoked by this Utility are given below.
    - The argument Strings will be UTF-8 encoded and hence the results will be accurate regardless of the dialects present in the String.
    
    
-
+Download: [Ghost-String-Utility](https://github.com/Fury-MorningStar/String-Finder/raw/main/GhostStringUtility.jar)
