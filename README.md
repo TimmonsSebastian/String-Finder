@@ -2,7 +2,7 @@
 
 We provide users a Java library that can be used for manipulating and searching strings in many ways that are not provided by the default Java libraries. 
 
-The Ghost-String-Utility is created keeping in mind of the fact that current default Java libraries allow users to search for a smaller String from a larger String only if the String cases match. 
+The Ghost-String-Utility is created keeping in mind of the fact that default Java libraries does not provide a straight forward method with which users can search for a smaller String from a larger String in case the String cases do not match. 
 
 The Ghost-String-Utility object can be created by using:
 
